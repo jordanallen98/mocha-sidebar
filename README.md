@@ -29,7 +29,7 @@
 #### Mocha Side Bar already supports these features (feel free to propose new features)
 * [x] New code coverage support
 * [x] see all tests in vscode side bar menu
-* [x] git lens for running/debugging directly form the code
+* [x] git lens for running/debugging directly from the code
 * [x] decorations which shows test status(pass/fail/not run) from code
 * [x] run tests for each level hierarchy from all tests to a single test(and each describer of course) 
 * [x] debug tests for each level hierarchy from all tests to a single test(and each describer of course) 
